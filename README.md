@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Mabrouk
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ...
+- 🌱
 - 💞️ I love competitive progamming c++
 - 📫 How to reach me facebook: https://www.facebook.com/profile.php?id=100006850201565    linkedIn: https://www.linkedin.com/in/omar-mabrouk-22020321a/
 
