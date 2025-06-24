@@ -15,7 +15,7 @@
 
 <p>- :school: I am a `Computer Science Fresh Graduate` from the Faculty of  management technology and information systems</p>
 <p>- 📫 How to reach me **omersa2002@gmail.com**</p>
-<p>- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1AnshnK9TR4O2k_0bJaDxAl9G9_Xwfuqd/view?usp=sharing">[MY RESUME]</a></p>
+<p>- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1MtpymUPrJb3ExekMkCPmP6Cwe8pcmtiQ/view?usp=sharing">[MY RESUME]</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
